@@ -1,0 +1,25 @@
+{
+  "kind": 1,
+  "closed": false,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":639.0,"y":-31.0,},
+    {"speed":100.0,"x":639.0,"y":161.0,},
+    {"speed":100.0,"x":639.0,"y":257.0,},
+    {"speed":100.0,"x":479.0,"y":257.0,},
+    {"speed":100.0,"x":511.0,"y":449.0,},
+    {"speed":100.0,"x":511.0,"y":513.0,},
+    {"speed":100.0,"x":607.0,"y":513.0,},
+    {"speed":100.0,"x":639.0,"y":609.0,},
+    {"speed":100.0,"x":639.0,"y":737.0,},
+    {"speed":100.0,"x":639.0,"y":865.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "path_enemy_2",
+  "tags": [],
+  "resourceType": "GMPath",
+}

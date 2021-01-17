@@ -1,0 +1,1 @@
+var myMsg, maxLength, maxHeight,myNumber
